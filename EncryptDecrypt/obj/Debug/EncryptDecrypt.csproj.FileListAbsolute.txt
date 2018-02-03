@@ -1,0 +1,6 @@
+E:\Projects\DotNet\MVC\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+E:\Projects\DotNet\MVC\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+E:\Projects\DotNet\MVC\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+E:\Projects\DotNet\MVC\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+E:\Projects\DotNet\MVC\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+E:\Projects\DotNet\MVC\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
